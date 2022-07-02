@@ -4,7 +4,7 @@
   (property "Sheetfile" "AGB-E05-01.kicad_sch")
   (property "Sheetname" "")
   (attr smd)
-  (fp_text reference "U0" (at 0 5.3238 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "J**" (at 0 -4 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4b7b70f7-4a2e-4d70-af7a-f0086761100e)
   )

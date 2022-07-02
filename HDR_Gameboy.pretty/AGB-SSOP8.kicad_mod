@@ -6,7 +6,7 @@
   (property "Sheetfile" "AGB-E05-01.kicad_sch")
   (property "Sheetname" "")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -4.699) (layer "F.SilkS")
+  (fp_text reference "U**" (at 0 -4.699) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5966bb5b-791b-4151-b411-6920234a7299)
   )

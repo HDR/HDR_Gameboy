@@ -3,7 +3,7 @@
   (tedit 61A30BE2)
   (tags "capacitor")
   (attr smd)
-  (fp_text reference "C1" (at -8.00354 6.25348 -180) (layer "F.SilkS")
+  (fp_text reference "C**" (at 0 -1.5 -180) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3b44a166-44ad-4c8d-97ae-41880031ac63)
   )

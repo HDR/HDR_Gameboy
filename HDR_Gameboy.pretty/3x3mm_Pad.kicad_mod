@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tedit 0)
   (attr smd)
-  (fp_text reference "REF**" (at 0 -4.953 unlocked) (layer "F.SilkS")
+  (fp_text reference "H**" (at 0 -2.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8ff6eb78-bf1d-47b7-adcd-d67995aae09c)
   )
