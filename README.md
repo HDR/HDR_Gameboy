@@ -10,19 +10,19 @@
 |---------------------------------|------------------------------------|
 | 1x1mm_Pad                       | Aesthetic 1x1mm ground pad         |
 | 3x3mm_Pad                       | Aesthetic 3x3mm ground pad         |
-| AGB_C_402                       | GBA Cart 0402 Capacitor            |
-| AGB_Cartbrow_Left               | Left "Eyebrow" used on GBA carts   |
-| AGB_Cartbrow_Right              | Right "Eyebrow used on GBA carts   |
-| AGB_CR1616                      | GBA CR1616 Battery                 |
-| AGB_Crystal                     | GBA Cart Crystal                   |
-| AGB_R_402                       | GBA Cart0402 Resistor              |
-| AGB_R_603                       | GBA Cart 0603 Resistor             |
-| AGB_R_0603_OPT                  | Unpopulated GBA Cart 0603 Resistor |
-| AGB_SSOP8                       | GBA Cart SSOP-8                    |
-| AGB_Testpoint                   | GBA Cart Testpoint                 |
-| AGB_Testpoint_Large             | GBA Cart Large Testpoint           |
-| AGB_TSOP-I-32                   | GBA Cart TSOP-I-32                 |
-| AGB_TSOP-II-44                  | GBA Cart TSOP-II-44                |
+| AGB-C_402                       | GBA Cart 0402 Capacitor            |
+| AGB-Cartbrow_Left               | Left "Eyebrow" used on GBA carts   |
+| AGB-Cartbrow_Right              | Right "Eyebrow used on GBA carts   |
+| AGB-CR1616                      | GBA CR1616 Battery                 |
+| AGB-Crystal                     | GBA Cart Crystal                   |
+| AGB-R_402                       | GBA Cart0402 Resistor              |
+| AGB-R_603                       | GBA Cart 0603 Resistor             |
+| AGB-R_0603_OPT                  | Unpopulated GBA Cart 0603 Resistor |
+| AGB-SSOP8                       | GBA Cart SSOP-8                    |
+| AGB-Testpoint                   | GBA Cart Testpoint                 |
+| AGB-Testpoint_Large             | GBA Cart Large Testpoint           |
+| AGB-TSOP-I-32                   | GBA Cart TSOP-I-32                 |
+| AGB-TSOP-II-44                  | GBA Cart TSOP-II-44                |
 | Game_Boy_Advance_Edge_Connector | GBA Cart Edge Connector            |
 | Game_Boy_Edge_Connector         | GB Cart Edge Connector             |
 
